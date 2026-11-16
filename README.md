@@ -2,7 +2,7 @@
 
 **Jatra.Pay** is a cashless public transport fare payment prototype designed to modernize local commuting in Bangladesh (featuring local Chattogram routes such as GEC, Bahaddarhat, Muradpur, Oxygen, Chawkbazar, and Station Road). 
 
-Built as an Object-Oriented Programming (OOP) project and visual prototype, Jatra.Pay simulates a unified digital fare payment workflow supporting both **QR code** payments (for smartphone users) and **USSD** payments (for feature phone users without internet access).
+Built as an Object-Oriented Programming (OOP) project and visual prototype, Jatra.Pay simulates a unified digital fare payment workflow supporting both **QR Code** payments (for smartphone users) and **USSD** payments (for feature phone users without internet access).
 
 ---
 
